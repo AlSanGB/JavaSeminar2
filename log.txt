@@ -1,0 +1,92 @@
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 61 25 62 34 80 59 46 53 39 25 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 61 62 34 80 59 46 53 39 25 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 61 62 34 80 59 46 53 39 25 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 61 34 62 80 59 46 53 39 25 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 61 34 62 80 59 46 53 39 25 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 61 34 62 59 80 46 53 39 25 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 61 34 62 59 46 80 53 39 25 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 61 34 62 59 46 53 80 39 25 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 61 34 62 59 46 53 39 80 25 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 61 34 62 59 46 53 39 25 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 61 34 62 59 46 53 39 25 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 61 62 59 46 53 39 25 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 61 62 59 46 53 39 25 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 61 59 62 46 53 39 25 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 61 59 46 62 53 39 25 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 61 59 46 53 62 39 25 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 61 59 46 53 39 62 25 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 61 59 46 53 39 25 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 61 59 46 53 39 25 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 61 59 46 53 39 25 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 59 61 46 53 39 25 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 59 46 61 53 39 25 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 59 46 53 61 39 25 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 59 46 53 39 61 25 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 59 46 53 39 25 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 59 46 53 39 25 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 59 46 53 39 25 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 59 53 39 25 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 53 59 39 25 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 53 39 59 25 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 53 39 25 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 53 39 25 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 53 39 25 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 53 39 25 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 39 53 25 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 39 25 53 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 39 25 53 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 46 39 25 53 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 39 46 25 53 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 39 25 46 53 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 39 25 46 53 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 39 25 46 53 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 25 39 46 53 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 34 25 39 46 53 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 25 34 39 46 53 59 61 62 80 
+дек 27, 2022 2:10:39 PM dztask2 printArray
+INFO: 25 25 34 39 46 53 59 61 62 80 
